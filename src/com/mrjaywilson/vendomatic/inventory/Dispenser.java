@@ -1,3 +1,10 @@
+/**
+* Dispenser.java - Class to handle appropriation of inventory inheriting from inventory.
+* @author  Jay Wilson
+* @version 1.0
+* @see Inventory
+*/
+
 // package declaration
 package com.mrjaywilson.vendomatic.inventory;
 

@@ -1,13 +1,3 @@
-/**
-* 	Program:	Vend-o-Matic (Vending Machine Project)
-*	File:		Candy.java
-*	Summary:	Manages candy objects.
-*				'Candy' sub-class, inheriting from Snack, and thus Product
-* 	Author:		Jay Wilson
-* 				Bibata RABBA IDI
-*	Date:		May 04, 2018
-**/
-
 // Package Declaration
 package com.mrjaywilson.vendomatic.engine;
 

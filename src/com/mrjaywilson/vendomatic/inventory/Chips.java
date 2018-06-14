@@ -1,3 +1,10 @@
+/**
+* Chips.java - Class to handle inventory of chips.
+* @author  Jay Wilson
+* @version 1.0
+* @see Snack
+*/
+
 // package declaration
 package com.mrjaywilson.vendomatic.inventory;
 

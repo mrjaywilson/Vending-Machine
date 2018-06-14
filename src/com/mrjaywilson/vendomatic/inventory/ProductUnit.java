@@ -1,11 +1,9 @@
 /**
-* 	Program:	Vend-o-Matic (Vending Machine Project)
-*	File:		ProductUnit.java 
-*	Summary:	handles the addition of the product units for ordering products.
-* 	Author:		Jay Wilson
-* 				Bibata RABBA IDI
-*	Date:		May 04, 2018
-**/
+* ProductUnit.java - Class extending Button to created custom buttons for inventory items to be selected from the vending machine.
+* @author  Jay Wilson
+* @version 1.0
+*/
+
 
 // package declaration
 package com.mrjaywilson.vendomatic.inventory;

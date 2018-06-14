@@ -1,3 +1,9 @@
+/**  
+* ProcessCustomerQueue.java - Class to handle the queue of customers to interact with the vending machine.
+* @author  Jay Wilson
+* @version 1.0
+*/
+
 package com.mrjaywilson.vendomatic.customerqueue;
 
 import java.io.BufferedReader;

@@ -1,3 +1,9 @@
+/**  
+* Customer.java - Class to define the customer object.
+* @author  Jay Wilson
+* @version 1.0
+*/
+
 package com.mrjaywilson.vendomatic.customerqueue;
 
 import javafx.animation.PathTransition;

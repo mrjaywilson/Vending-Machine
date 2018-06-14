@@ -1,3 +1,10 @@
+/**
+* Drink.java - Class to handle drink inventory.
+* @author  Jay Wilson
+* @version 1.0
+* @see Snack
+*/
+
 // package declaration 
 package com.mrjaywilson.vendomatic.inventory;
 

@@ -1,12 +1,3 @@
-/**
-* 	Program:	Vend-o-Matic (Vending Machine Project)
-*	File:		Dispenser.java 
-*	Summary:	Manages all inventory.
-* 	Author:		Jay Wilson
-* 				Bibata RABBA IDI
-*	Date:		May 04, 2018
-**/
-
 // package declaration
 package com.mrjaywilson.vendomatic.inventory;
 

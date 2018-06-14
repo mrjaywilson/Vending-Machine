@@ -1,3 +1,9 @@
+/**  
+* Animation.java - Handles animation of various objects within the vending machine.
+* @author  Jay Wilson
+* @version 1.0
+*/
+
 // Package Declaration
 package com.mrjaywilson.vendomatic.engine;
 

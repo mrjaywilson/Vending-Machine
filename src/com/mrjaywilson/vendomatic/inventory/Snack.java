@@ -1,11 +1,9 @@
 /**
-* 	Program:	Vend-o-Matic (Vending Machine Project)
-*	File:		Snack.java 
-*	Summary:	Manages snack objects.
-* 	Author:		Jay Wilson
-* 				Bibata RABBA IDI
-*	Date:		May 04, 2018
-**/
+* Snack.java - Abstract Class for Snack Items inheriting Product.
+* @author  Jay Wilson
+* @version 1.0
+* @see Product
+*/
 
 // package declaration
 package com.mrjaywilson.vendomatic.inventory;

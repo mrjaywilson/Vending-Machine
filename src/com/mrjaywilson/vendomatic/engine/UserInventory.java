@@ -1,3 +1,9 @@
+/**
+* UserInventory.java - Class to define the user inventory for customers interacting with the vending machine.
+* @author  Jay Wilson
+* @version 1.0
+*/
+
 // Package Declaration
 package com.mrjaywilson.vendomatic.engine;
 

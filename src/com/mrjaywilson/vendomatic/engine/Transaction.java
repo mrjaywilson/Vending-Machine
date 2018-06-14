@@ -1,12 +1,3 @@
-/**
-* 	Program:	Vend-o-Matic (Vending Machine Project)
-*	File:		Transactions.java
-*	Summary:	Manages Transactions.
-* 	Author:		Jay Wilson
-* 				Bibata RABBA IDI
-*	Date:		May 04, 2018
-**/
-
 // Declare Package
 package com.mrjaywilson.vendomatic.engine;
 

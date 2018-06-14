@@ -1,11 +1,9 @@
 /**
-* 	Program:	Vend-o-Matic (Vending Machine Project)
-*	File:		Gum.java 
-*	Summary:	Manages gum objects.
-* 	Author:		Jay Wilson
-* 				Bibata RABBA IDI
-*	Date:		May 04, 2018
-**/
+* Gum.java - Class to handle gum inventory.
+* @author  Jay Wilson
+* @version 1.0
+* @see Snack
+*/
 
 // package declaration
 package com.mrjaywilson.vendomatic.inventory;

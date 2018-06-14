@@ -1,3 +1,10 @@
+/**
+* Candy.java - Class to handle inventory of candy.
+* @author  Jay Wilson
+* @version 1.0
+* @see Snack
+*/
+
 // package decalartion
 package com.mrjaywilson.vendomatic.inventory;
 

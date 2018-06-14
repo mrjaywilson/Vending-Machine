@@ -1,7 +1,8 @@
 /**
-* ProductUnit.java - Class extending Button to created custom buttons for inventory items to be selected from the vending machine.
+* ProductUnit.java - Creates an object for each product to be used in the vending machien as a button using ImageButton clss
 * @author  Jay Wilson
 * @version 1.0
+* @see ImageButton
 */
 
 

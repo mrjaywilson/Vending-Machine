@@ -1,12 +1,3 @@
-/**
-* 	Program:	Vend-o-Matic (Vending Machine Project)
-*	File:		UserInvetory.java
-*	Summary:	Manages user inventory.
-* 	Author:		Jay Wilson
-* 				Bibata RABBA IDI
-*	Date:		May 06, 2018
-**/
-
 // Package Declaration
 package com.mrjaywilson.vendomatic.engine;
 

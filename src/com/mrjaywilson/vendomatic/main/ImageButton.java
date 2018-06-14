@@ -1,11 +1,11 @@
 /**
-* 	Program:	Vend-o-Matic (Vending Machine Project)
-*	File:		ImageButton.java 
-*	Summary:	Manages special buttons for product odering objects.
-* 	Author:		Jay Wilson
-* 				Bibata RABBA IDI
-*	Date:		May 05, 2018
-**/
+* ImageButton.java - Class extending Button to created custom
+* buttons for inventory items to be selected from the
+* vending machine.
+* @author  Jay Wilson
+* @version 1.0
+* @see Button
+*/
 
 // package declaration
 package com.mrjaywilson.vendomatic.main;

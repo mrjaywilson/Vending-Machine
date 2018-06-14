@@ -1,3 +1,9 @@
+/**
+* Transaction.java - Class to handle customer transactions with the vending machine.
+* @author  Jay Wilson
+* @version 1.0
+*/
+
 // Declare Package
 package com.mrjaywilson.vendomatic.engine;
 

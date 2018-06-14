@@ -1,3 +1,9 @@
+/**  
+* CustomerDisplay.java - Class for displaying the "Security Camera" effect of the customer objects' animated interaction with the Vending Machine.
+* @author  Jay Wilson
+* @version 1.0
+*/
+
 package com.mrjaywilson.vendomatic.customerqueue;
 
 import com.mrjaywilson.vendomatic.engine.Transaction;

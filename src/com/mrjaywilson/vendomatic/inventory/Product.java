@@ -1,11 +1,8 @@
 /**
-* 	Program:	Vend-o-Matic (Vending Machine Project)
-*	File:		Product.java
-*	Summary:	Manages all product objects at a super-class level.
-* 	Author:		Jay Wilson
-* 				Bibata RABBA IDI
-*	Date:		May 04, 2018
-**/
+* Product.java - Abrstract class for Products.
+* @author  Jay Wilson
+* @version 1.0
+*/
 
 // Package declaration
 package com.mrjaywilson.vendomatic.inventory;

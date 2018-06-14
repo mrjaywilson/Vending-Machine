@@ -1,12 +1,3 @@
-/**
-* 	Program:	Vend-o-Matic (Vending Machine Project)
-*	File:		Chips.java 
-*	Summary:	Manages chips objects.
-* 	Author:		Jay Wilson
-* 				Bibata RABBA IDI
-*	Date:		May 05, 2018
-**/
-
 // package declaration
 package com.mrjaywilson.vendomatic.inventory;
 

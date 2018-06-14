@@ -1,5 +1,5 @@
 /**
-* Animation.java - Interface for inventory items in the vending machine.
+* Inventory.java - Interface for inventory items in the vending machine.
 * @author  Jay Wilson
 * @version 1.0
 */
